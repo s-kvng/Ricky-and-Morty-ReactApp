@@ -28,7 +28,7 @@ function List() {
             <h2>Characters</h2>
             <div className='row'>
                 {loading ?
-                    (<div>Loading....</div>) :
+                    (<div>Loading.....</div>) :
                     (
                         characters.map((character) => (
 
