@@ -4,7 +4,7 @@
 App uses an API to fetch Ricky and Morty tv series data
 and list on the page.
 
-*Download zip file or clone
+* Download zip file or clone
 
 Then run
 - npm install(to insall all dependencies)
